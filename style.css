@@ -8,39 +8,27 @@
 
 #title {
     background: yellow;
-     margin: 20px;
-    
+    margin: 20px;
+
 }
 
 #subtitle {
     background: black;
-         margin: 20px;
-
     color: white;
+    padding:0px 50px;
+    margin: 20px 100px;
+    margin-bottom: 50px;
 
 }
 
 .topic {
     background: lightgray;
-          width: 70px;
-          padding: 0px 5px 20px;
-          height:2px;
-          margin-right: 100px;
+    display: inline;
+    margin-left: 50px;
+    margin-right: 50px;
+
 }
 
-.topic2 {
-    background: lightgray;
-          width: 70px;
-          padding: 0px 5px 20px;
-          height:2px;
-          margin: auto;
+body {
+    padding:50px;
 }
-
-.topic3 {
-    background: lightgray;
-          width: 70px;
-          padding: 0px 5px 20px;
-          height:2px;
-          margin-left: 400px;
-}
-
